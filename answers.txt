@@ -10,3 +10,7 @@ Answer: Data science could be applied to so many different fields, but I will us
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines commit history into a new merge commit, while rebasing rewrites commit history onto a new base.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am excited for the whole course in general. I find all the topics like statistics and machine learning interesting, and I want to learn more about how to utilize Python libraries like Pandas as well as SQL.
